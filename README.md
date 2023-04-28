@@ -1,5 +1,4 @@
-### Hi there 👋
-
+Hello! My name is Troy, and I'm a new Software Developer. More information to come soon.
 <!--
 **smitstroy/smitstroy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
